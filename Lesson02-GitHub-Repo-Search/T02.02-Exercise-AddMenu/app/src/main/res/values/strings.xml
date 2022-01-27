@@ -15,5 +15,8 @@
   -->
 <resources>
     <string name="app_name">Github Query</string>
-    <!--TODO (1) Add a string resource called search with the title "Search"-->
+    <string name="search">Search</string>
+    <string name="item1">Item 1</string>
+    <string name="item2">Item 2</string>
+    <string name="item3">Item 3</string>
 </resources>
